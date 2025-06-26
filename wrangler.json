@@ -9,6 +9,14 @@
   "observability": {
     "enabled": true
   },
+  {
+  "routes": [
+    {
+      "pattern": "images.dummyimage.fyi",
+      "custom_domain": true
+    }
+  ]
+},
   "unsafe": {
     "bindings": [
       {
