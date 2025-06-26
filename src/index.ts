@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "marvel characters",
+      prompt: "videogames",
     };
 
     const response = await env.AI.run(
