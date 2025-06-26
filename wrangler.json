@@ -12,7 +12,7 @@
   {
   "routes": [
     {
-      "pattern": "images.dummyimage.fyi",
+      "pattern": "image.dummyimage.fyi",
       "custom_domain": true
     }
   ]
